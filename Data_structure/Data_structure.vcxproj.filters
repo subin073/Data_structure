@@ -13,25 +13,31 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\hw">
+      <UniqueIdentifier>{c9bd70b8-ed94-4df8-834c-d9f755f516a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\prac">
+      <UniqueIdentifier>{13cfeb3f-8715-49de-ae81-e2a6c65f164d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ch02_hw02.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ch02_03.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ch02_04.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="ch02_hw01.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\hw</Filter>
     </ClCompile>
-    <ClCompile Include="ch02_06.c">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="ch02_hw02.c">
+      <Filter>소스 파일\hw</Filter>
     </ClCompile>
     <ClCompile Include="ch02_hw04.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\hw</Filter>
+    </ClCompile>
+    <ClCompile Include="ch02_06.c">
+      <Filter>소스 파일\prac</Filter>
+    </ClCompile>
+    <ClCompile Include="ch02_04.c">
+      <Filter>소스 파일\prac</Filter>
+    </ClCompile>
+    <ClCompile Include="ch02_03.c">
+      <Filter>소스 파일\prac</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
