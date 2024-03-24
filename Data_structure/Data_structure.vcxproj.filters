@@ -15,16 +15,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ch02.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ch02_02.c">
+    <ClCompile Include="ch02_hw02.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="ch02_03.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="ch02_04.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch02_hw01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch02_06.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch02_hw04.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
