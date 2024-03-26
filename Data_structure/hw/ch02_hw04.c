@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/*
 int main(void) {
 
 	int num ,result;
@@ -29,3 +29,4 @@ long int fact(int num) {
 		return val;
 	}
 }
+*/

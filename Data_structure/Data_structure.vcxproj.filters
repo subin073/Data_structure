@@ -39,11 +39,8 @@
     <ClCompile Include="hw\ch02_hw04.c">
       <Filter>소스 파일\hw</Filter>
     </ClCompile>
-    <ClCompile Include="ch03_01.c">
-      <Filter>소스 파일\prac</Filter>
-    </ClCompile>
-    <ClCompile Include="test.c">
-      <Filter>소스 파일\prac</Filter>
+    <ClCompile Include="hw\ch02_hw05.c">
+      <Filter>소스 파일\hw</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

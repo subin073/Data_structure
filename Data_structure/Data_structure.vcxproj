@@ -127,14 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ch03_01.c" />
     <ClCompile Include="hw\ch02_hw01.c" />
     <ClCompile Include="hw\ch02_hw02.c" />
     <ClCompile Include="hw\ch02_hw04.c" />
+    <ClCompile Include="hw\ch02_hw05.c" />
     <ClCompile Include="prac\ch02_03.c" />
     <ClCompile Include="prac\ch02_04.c" />
     <ClCompile Include="prac\ch02_06.c" />
-    <ClCompile Include="test.c" />
   </ItemGroup>
   <ItemGroup>
     <None Include="hw\listS.c" />
