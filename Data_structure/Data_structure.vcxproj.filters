@@ -33,13 +33,16 @@
     <ClCompile Include="hw\ch02_hw01.c">
       <Filter>소스 파일\hw</Filter>
     </ClCompile>
-    <ClCompile Include="hw\ch02_hw02.c">
+    <ClCompile Include="hw\ch02_hw02_01.c">
       <Filter>소스 파일\hw</Filter>
     </ClCompile>
     <ClCompile Include="hw\ch02_hw04.c">
       <Filter>소스 파일\hw</Filter>
     </ClCompile>
     <ClCompile Include="hw\ch02_hw05.c">
+      <Filter>소스 파일\hw</Filter>
+    </ClCompile>
+    <ClCompile Include="hw\ch02_hw02_02.c">
       <Filter>소스 파일\hw</Filter>
     </ClCompile>
   </ItemGroup>

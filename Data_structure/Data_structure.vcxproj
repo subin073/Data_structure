@@ -128,7 +128,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="hw\ch02_hw01.c" />
-    <ClCompile Include="hw\ch02_hw02.c" />
+    <ClCompile Include="hw\ch02_hw02_01.c" />
+    <ClCompile Include="hw\ch02_hw02_02.c" />
     <ClCompile Include="hw\ch02_hw04.c" />
     <ClCompile Include="hw\ch02_hw05.c" />
     <ClCompile Include="prac\ch02_03.c" />
