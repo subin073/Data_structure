@@ -132,6 +132,7 @@
     <ClCompile Include="hw\ch02_hw02_02.c" />
     <ClCompile Include="hw\ch02_hw04.c" />
     <ClCompile Include="hw\ch02_hw05.c" />
+    <ClCompile Include="hw\ex3_4.c" />
     <ClCompile Include="prac\ch02_03.c" />
     <ClCompile Include="prac\ch02_04.c" />
     <ClCompile Include="prac\ch02_06.c" />

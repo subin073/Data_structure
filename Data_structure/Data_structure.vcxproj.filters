@@ -45,6 +45,9 @@
     <ClCompile Include="hw\ch02_hw02_02.c">
       <Filter>소스 파일\hw</Filter>
     </ClCompile>
+    <ClCompile Include="hw\ex3_4.c">
+      <Filter>소스 파일\hw</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="hw\listS.c">
