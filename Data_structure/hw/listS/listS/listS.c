@@ -1,6 +1,6 @@
 #include "listS.h"
 int insertElement(int L[], int n, int x) {
-	int i, k = 0, move = 0;
+	int i, k = 0, move = 0; // k는 인덱스 번호
 	for (i = 0; i < n; i++) {
 		if (L[i] <= x && x <= L[i + 1]) {
 			k = i + 1;
