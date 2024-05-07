@@ -18,5 +18,6 @@ int main(void) {
 	printf("\n »ğÀÔ D>>");	 enQueue(Q1, 'D');	printQ(Q1);
 	printf("\n »ğÀÔ E>>");	 enQueue(Q1, 'E');	printQ(Q1);
 
-	getchar();	return 0;
+	getchar();	
+	return 0;
 }
