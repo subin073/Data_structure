@@ -8,6 +8,7 @@ int main(void) {
 	printf("\n 삽입 B>>");	enQueue(Q1, 'B');	printQ(Q1);
 	printf("\n 삽입 C>>");	enQueue(Q1, 'C');	printQ(Q1);
 	data = peekQ(Q1);	printf(" peek item : %c \n", data);
+
 	printf("\n 삭제 >>");	data = deQueue(Q1);	printQ(Q1);
 	printf("\t삭제 데이터: %c", data);
 	printf("\n 삭제 >>");	data = deQueue(Q1);	printQ(Q1);

@@ -59,5 +59,5 @@ void printQ(QueueType* Q) {
 	printf(" Queue : [");
 	for (i = Q->front + 1; i <= Q->rear; i++)
 		printf("%3c", Q->queue[i]);
-	printf("]");
+	printf(" ] ");
 }
