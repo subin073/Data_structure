@@ -88,7 +88,7 @@ element deleteRear(DQueType* DQ) {
 			DQ->front = NULL;
 			DQ->rear = NULL;
 		}
-		else {
+		else { 
 			DQ->rear = DQ->rear->llink;
 			DQ->rear->rlink = NULL;
 		}

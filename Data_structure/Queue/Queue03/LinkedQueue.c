@@ -7,7 +7,7 @@ LQueueType* createLinkdQueue() {
 	LQueueType* LQ;
 	LQ = (LQueueType*)malloc(sizeof(LQueueType));
 	LQ->front = NULL;
-	LQ->rear = NULL;
+	LQ->rear = NULL; 
 	return LQ;
 }
 

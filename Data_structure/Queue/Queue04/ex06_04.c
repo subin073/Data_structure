@@ -15,7 +15,7 @@ int main(void) {
 	printf("\n front »ðÀÔ E>>");	insertFront(DQ1, 'E');	printDQ(DQ1);
 	printf("\n front »ðÀÔ F>>");	insertFront(DQ1, 'D');	printDQ(DQ1);
 
-	data = peekFront(DQ1);	printf("\n peek Front item : %c \n", data);
+	data = peekFront(DQ1);	printf("\n peek Front item : %c \n", data); 
 	data = peekRear(DQ1);	printf("\n peek Rear item : %c \n", data);
 
 	getchar();	

@@ -4,7 +4,7 @@
 
 QueueType* createCQueue() {
 	QueueType* cQ;
-	cQ = (QueueType*)malloc(sizeof(QueueType));
+	cQ = (QueueType*)malloc(sizeof(QueueType)); 
 	cQ->front = 0;
 	cQ->rear = 0;
 	return cQ;

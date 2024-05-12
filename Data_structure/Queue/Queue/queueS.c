@@ -17,7 +17,7 @@ int isQueueEmpty(QueueType* Q) {
 		printf(" Queue is empty! \n\t");
 		return 1;
 	}
-	else return 0;
+	else return 0; 
 }
 
 

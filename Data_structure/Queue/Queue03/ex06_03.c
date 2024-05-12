@@ -9,7 +9,7 @@ int main(void) {
 	printf("\n 삽입 C>>");	enLQueue(LQ, 'C');	printLQ(LQ);
 	data = peekLQ(LQ);		printf(" peek item :%c \n", data);
 
-	printf("\n 삭제  >>");	data = deLQueue(LQ);	printLQ(LQ);
+	printf("\n 삭제  >>");	data = deLQueue(LQ);	printLQ(LQ); 
 	printf("\t삭제 데이터: %c", data);
 
 	printf("\n 삭제  >>");	data = deLQueue(LQ);	printLQ(LQ);

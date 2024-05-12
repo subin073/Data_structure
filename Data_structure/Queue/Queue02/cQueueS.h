@@ -10,7 +10,7 @@ typedef struct {
 
 QueueType* createCQueue();
 int isCQueueEmpty(QueueType* cQ);
-int isCQueueFull(QueueType* cQ);
+int isCQueueFull(QueueType* cQ); 
 void enCQueue(QueueType* cQ, element item);
 element deCQueue(QueueType* cQ);
 element peekCQ(QueueType* cQ);

@@ -11,7 +11,7 @@ typedef struct {
 } LQueueType;
 
 LQueueType* createLinkedQueue();
-int isLQEmpty(LQueueType* LQ);
+int isLQEmpty(LQueueType* LQ); 
 void enLQueue(LQueueType* LQ, element item);
 element deLQueue(LQueueType* LQ);
 element peekLQ(LQueueType* LQ);
