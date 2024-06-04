@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="selectSort.c">
+    <ClCompile Include="bubbleSort.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ex9_01.c">
+    <ClCompile Include="ex9_02.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
