@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{58dd8a8e-dfe1-4b37-8aaa-1168ebbbc6ea}</ProjectGuid>
+    <ProjectGuid>{171ee274-be54-4066-93a0-dd47238d159d}</ProjectGuid>
     <RootNamespace>sort02</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="bubbleSort.c" />
+    <ClCompile Include="bubleSort.c" />
     <ClCompile Include="ex9_02.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
