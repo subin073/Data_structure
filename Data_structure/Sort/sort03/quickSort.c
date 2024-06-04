@@ -36,6 +36,6 @@ void quickSort(int a[], int begin, int end, int size) {
 		p = partition(a, begin, end, size);
 		quickSort(a, begin, p - 1, size);
 		quickSort(a, p + 1, end, size);
-
+		 
 	}
 }
