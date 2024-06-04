@@ -1,12 +1,12 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
 void quickSort(int a[], int begin, int end, int size);
 
 int main(void) {
 	int list[8] = { 69, 10, 30, 2, 16, 8, 31, 22 }, i = 0;
 	int size = sizeof(list) / sizeof(list[0]);
-	printf("\nÁ¤·ÄÇÒ ¿ø¼Ò : ");
+	printf("\nì •ë ¬í•  ì›ì†Œ : ");
 	for (i = 0; i <= size - 1; i++)	printf("%d", list[i]);
-	printf("\n\n<<<<<<<<<< Äü Á¤·Ä ¼öÇà >>>>>>>>>>\n");
+	printf("\n\n<<<<<<<<<< í€µ ì •ë ¬ ìˆ˜í–‰ >>>>>>>>>>\n");
 	quickSort(list, 0, size - 1, size);
 
 	getchar(); return 0;
