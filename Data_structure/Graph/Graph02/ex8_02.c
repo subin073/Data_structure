@@ -10,7 +10,7 @@ int main(void) {
 
 
 	createGraph(G1);
-	for (i = 0; i < 4; i++) 
+	for (i = 0; i < 4; i++)
 		insertVertex(G1, i);
 	insertEdge(G1, 0, 3);
 	insertEdge(G1, 0, 1);
@@ -33,7 +33,7 @@ int main(void) {
 	insertEdge(G2, 1, 0);
 	insertEdge(G2, 2, 1);
 	insertEdge(G2, 2, 0);
-	
+
 
 	createGraph(G3);
 	for (i = 0; i < 4; i++)
@@ -47,10 +47,10 @@ int main(void) {
 
 	createGraph(G4);
 	for (i = 0; i < 3; i++)
-		insertVertex(G4, i);
-	insertEdge(G4, 0, 2);
-	insertEdge(G4, 0, 1);
-	insertEdge(G4, 1, 2);
+		insertVertex(G3, i);
+	insertEdge(G3, 0, 2);
+	insertEdge(G3, 0, 1);
+	insertEdge(G3, 1, 2);
 	insertEdge(G4, 1, 0);
 
 
@@ -67,5 +67,6 @@ int main(void) {
 	print_adjList(G4);
 
 	getchar();
-	return 0;
+	return;
 }
+

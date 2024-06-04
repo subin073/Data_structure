@@ -17,3 +17,4 @@ void createGraph(graphType* g);
 void insertVertex(graphType* g, int v);
 void insertEdge(graphType* g, int u, int v);
 void print_adjList(graphType* g);
+
